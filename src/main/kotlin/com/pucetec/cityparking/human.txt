@@ -1,0 +1,2 @@
+Me compliqué un poco para la creación de todas las clases exceptions
+También se me ha hecho complicado comprender la estructura del proyecto
